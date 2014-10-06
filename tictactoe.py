@@ -127,7 +127,7 @@ if __name__ == "__main__":
 
 """
 Notes:
-Rotations/reflections/etc not implemented, because it would probably just make the program less effecient
+Rotations/reflections/etc not implemented, because it would probably just make the program less efficient
 	If you want to implement it, change check_if_equivalent()
 Alpha-beta pruning not implemented because the player would only be able to draw (assume perfect play up tree as well as down)
 
